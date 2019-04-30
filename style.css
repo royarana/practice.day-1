@@ -1,0 +1,45 @@
+#box1{
+	border: 2px solid rgba(119, 74, 142, 0.5);
+	width: 50%;
+	height: 50%;
+	vertical-align: center;
+	line-height: 50px;
+	text-align: center;
+}
+
+#box2{
+	border: 2px solid black;
+	width: 50%;
+	height: 50%;
+	vertical-align: center;
+	line-height: 50px;
+	text-align: center;
+}
+
+#box3{
+	border: 2px solid black;
+	width: 50%;
+	height: 50%;
+	vertical-align: center;
+	line-height: 50px;
+	text-align: center;
+font-family: 'Indie Flower', cursive;
+}
+
+#box4{
+	border: 2px solid black;
+	width: 50%;
+	height: 50%;
+	vertical-align: center;
+	line-height: 50px;
+	text-align: center;
+}
+
+#box5{
+	border: 2px solid black;
+	width: 50%;
+	height: 50%;
+	vertical-align: center;
+	line-height: 50px;
+	text-align: center;
+}
